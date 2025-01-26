@@ -1,8 +1,8 @@
-# AI Assistant with Telegram Bot
+# AI Assistant with Telegram Bot(dsssGPT)
 
 ## Project Overview
 
-This project demonstrates the implementation of an AI assistant powered by a Large Language Model (LLM), accessible through a Telegram bot. The system integrates a Telegram bot interface with a locally hosted LLM backend to process user messages and provide intelligent responses.
+This project is based on a masters course excercise completion which demonstrates the implementation of an AI assistant powered by a Large Language Model (LLM), accessible through a Telegram bot. The system integrates a Telegram bot interface with a locally hosted LLM backend to process user messages and provide intelligent responses.
 
 ### Features:
 
