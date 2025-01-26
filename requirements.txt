@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+transformers==4.34.0  #Adjust based on the TinyLlama model compatibility
+torch>=2.0.0  #Ensure compatibility with selected transformers version
+
