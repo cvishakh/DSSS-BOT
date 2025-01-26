@@ -32,8 +32,8 @@ This project is based on a masters course excercise completion which demonstrate
 
 ---
 
-## Acknowledgments
+## Acknowledgments and References
 
 - **Telegram Bot API** for seamless integration.
 - **TinyLlama** (LLM) for backend intelligence.
-- FAU- Data Science Survival Skills [DSSS] Course Organizers.
+- FAU- Data Science Survival Skills [DSSS] Course Organizers
