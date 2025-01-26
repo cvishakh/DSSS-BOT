@@ -12,7 +12,7 @@ pipe = pipeline(
 )
 
 #Telegram bot API Token
-API_TOKEN = "7260209239:AAFz8h_h8jxBiSGeTxAQR1mcC4qEQyvcviM"
+API_TOKEN = "Replace with your token key"
 
 #Start command handler
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
